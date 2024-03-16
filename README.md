@@ -7,8 +7,8 @@ Saya ilham akbar NIM [2201017] mengerjakan Latihan Praktikum 5 dalam mata kuliah
 Program ini adalah untuk manajemen data mahasiswa yang dibuat dengan bahasa pemrograman Java. Program ini dirancang untuk memudahkan pengguna dalam mengelola data mahasiswa, termasuk operasi input, update, dan delete data.
 
 ### Fitur Program
-1. Input Data: Pengguna dapat memasukkan data mahasiswa baru melalui form input. Data yang dimasukkan mencakup NIM, Nama, Jenis Kelamin, Kelas, dan Nilai1.
-2. Update Data: Jika pengguna mengklik data pada tabel, form input akan terisi dengan data tersebut. Pengguna kemudian dapat memperbarui data tersebut dan menyimpan perubahan dengan menekan tombol "Update"1.
+1. Input Data: Pengguna dapat memasukkan data mahasiswa baru melalui form input. Data yang dimasukkan mencakup NIM, Nama, Jenis Kelamin, Kelas, dan Nilai.
+2. Update Data: Jika pengguna mengklik data pada tabel, form input akan terisi dengan data tersebut. Pengguna kemudian dapat memperbarui data tersebut dan menyimpan perubahan dengan menekan tombol "Update".
 3. Delete Data: Jika pengguna mengklik data pada tabel, tombol “Delete” akan muncul. Sebelum data dihapus, akan muncul konfirmasi untuk memastikan pengguna benar-benar ingin menghapus data tersebut
 
 ### Atribut 
